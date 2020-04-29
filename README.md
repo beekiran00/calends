@@ -1,6 +1,6 @@
 # calends
 
-A new Flutter application.
+A minimal "To Do list" application
 
 ## Getting Started
 
